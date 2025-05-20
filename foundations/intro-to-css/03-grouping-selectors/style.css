@@ -1,0 +1,11 @@
+.same{
+    font: size 28px;
+    font-family: Arial,"times new roman", sans-serif;
+}
+#button{
+    background-color: yellow;
+}
+#w {
+    background-color: black;
+    color: white;
+}
