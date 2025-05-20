@@ -1,0 +1,20 @@
+.odd{
+    background-color: rgb(255, 0, 55);
+    color: black;
+    font-family: verdana,"deja vu sans", sans-serif;
+
+
+}
+#women{
+    color: blue;
+    font-size: 36px;
+}
+#gay{
+    font-size: 36px
+}
+#man{
+    background-color: seagreen;
+    font-size: 24px;
+    font-weight: 700;
+}
+
